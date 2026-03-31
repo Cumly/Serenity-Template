@@ -1,6 +1,6 @@
 # Serenity Template
 
-**Autor**: GhulyIU
+**Autor**: GiulyIu
 
 Este proyecto contiene la estructura para armar un proyecto en Serenity
 
