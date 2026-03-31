@@ -36,7 +36,7 @@ Antes de ejecutar las pruebas deben de tener los siguiente programas instalados:
       No modifiques otros directorios o archivos para asegurar la estabilidad del framework y la correcta generación de los reportes de Serenity.
 
 
-2. **Ejecutar las pruebas y generar el reporte**:
+3. **Ejecutar las pruebas y generar el reporte**:
 
    Una vez instaladas las dependencias, ejecutar el siguiente comando:
 
@@ -49,7 +49,7 @@ Antes de ejecutar las pruebas deben de tener los siguiente programas instalados:
        - Generará un reporte visual en formato **HTML** que podrás abrir en tu navegador.
 
 
-3. **Accede al archivo resultante**:
+4. **Accede al archivo resultante**:
 
    Una vez que las pruebas hayan finalizado, el archivo HTML del reporte generado se encontrará en la siguiente ruta:
 
@@ -60,3 +60,15 @@ Antes de ejecutar las pruebas deben de tener los siguiente programas instalados:
    `start target/site/serenity/index.html`
 
    Finalmente, se abrira el reporte en el navegador preterminado.
+
+
+## Clonar repositorio
+
+Para clonar el repositorio, utiliza el siguiente comando:
+
+`git clone [https://github.com/Cumly/Serenity-Template.git]`
+`cd SerenityTemplate`
+
+
+Después de clonar el repositorio, debes instalar las dependencias y ejecutar las pruebas siguiendo los pasos detallados anteriormente.
+
